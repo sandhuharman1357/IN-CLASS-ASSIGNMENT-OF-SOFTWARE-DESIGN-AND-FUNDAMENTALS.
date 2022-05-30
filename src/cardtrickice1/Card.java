@@ -8,7 +8,7 @@ package cardtrickice1;
 /** define card value and suits
  * 
  *
- * @author sivagamasrinivasan
+ * @author Harman Sandhu
  */
 public class Card 
 {
